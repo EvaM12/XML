@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Ejercicio 3 Practica 1 --> 
+<Ejercicio3>
+    <LibroTexto>
+        <Identificador id= "t01"></Identificador>
+        <ISBN isbn= "846754824X"></ISBN>
+        <Lenguaje>Español</Lenguaje>
+        <Titulo>
+            <Nombre>Matematicas, Pitagoras</Nombre>
+            <Curso>2 ESO</Curso>
+            <Version>Conecta 2.0</Version>
+        </Titulo>
+        <Editorial>SM</Editorial>
+        <Autor>
+            <Nombre>Fernando</Nombre>
+            <Apellido1>Alcaide</Apellido1>
+            <Apellido2>Guindo</Apellido2>
+        </Autor>
+        <Reseña>
+            <![CDATA[
+                    El proyecto tiene como objetivo...
+            ]]> 
+        </Reseña>
+    </LibroTexto>
+</Ejercicio3>

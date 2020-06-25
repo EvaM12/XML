@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Mundial>
+    <Grupos>
+        <A>
+            <Equipo>
+                <Pais>Rusia</Pais>
+                <Partidos>
+                    <Jugados>2</Jugados>
+                    <Ganar>2</Ganar>
+                    <Empate>0</Empate>
+                    <Perder>0</Perder>
+                </Partidos>
+                <Puntos>6</Puntos>
+            </Equipo>
+
+            <Equipo>
+                <Pais>Uruguay</Pais>
+                <Partidos>
+                    <Jugados>1</Jugados>
+                    <Ganar>1</Ganar>
+                    <Empate>0</Empate>
+                    <Perder>0</Perder>
+                </Partidos>
+                <Puntos>3</Puntos>
+            </Equipo>
+
+            <Equipo>
+                <Pais>Egipto</Pais>
+                <Partidos>
+                    <Jugados>2</Jugados>
+                    <Ganar>0</Ganar>
+                    <Empate>0</Empate>
+                    <Perder>2</Perder>
+                </Partidos>
+                <Puntos>0</Puntos>
+            </Equipo>
+
+            <Equipo>
+                <Pais>Arabia Saudi</Pais>
+                <Partidos>
+                    <Jugados>1</Jugados>
+                    <Ganar>0</Ganar>
+                    <Empate>0</Empate>
+                    <Perder>1</Perder>
+                </Partidos>
+                <Puntos>0</Puntos>
+            </Equipo>
+        </A>
+
+        <B>
+            <Equipo>
+                <Pais>Iran</Pais>
+                <Partidos>
+                    <Jugados>1</Jugados>
+                    <Ganar>1</Ganar>
+                    <Empate>0</Empate>
+                    <Perder>0</Perder>
+                </Partidos>
+                <Puntos>3</Puntos>
+            </Equipo>
+
+            <Equipo>
+                <Pais>Portugal</Pais>
+                <Partidos>
+                    <Jugados>1</Jugados>
+                    <Ganar>0</Ganar>
+                    <Empate>1</Empate>
+                    <Perder>0</Perder>
+                </Partidos>
+                <Puntos>1</Puntos>
+            </Equipo>
+
+            <Equipo>
+                <Pais>España</Pais>
+                <Partidos>
+                    <Jugados>1</Jugados>
+                    <Ganar>0</Ganar>
+                    <Empate>1</Empate>
+                    <Perder>0</Perder>
+                </Partidos>
+                <Puntos>1</Puntos>
+            </Equipo>
+
+            <Equipo>
+                <Pais>Marruecos</Pais>
+                <Partidos>
+                    <Jugados>1</Jugados>
+                    <Ganar>0</Ganar>
+                    <Empate>0</Empate>
+                    <Perder>1</Perder>
+                </Partidos>
+                <Puntos>0</Puntos>
+            </Equipo>
+        </B>
+    </Grupos>
+</Mundial>

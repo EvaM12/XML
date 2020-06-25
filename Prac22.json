@@ -1,0 +1,68 @@
+{
+    "Automatizacion":[
+        {
+            "nombre":"Sin automatizar",
+            "Grupo":"L0",
+            "descripcion": "No hay ningun apoyo, el conductor conduce sin aistencia alguna",
+            "ejemplos":[
+                "No"
+            ],
+            "Inicio":{
+                "valor":1990,
+                "unidad":"año"
+            }
+        },
+        {
+            "nombre":"Funciones especificas",
+            "Grupo":"L1",
+            "descripcion": "Se automatizan una o mas funciones, pero sin combinarse entre si",
+            "ejemplos":[
+                "ABS",
+                "Control de crucero",
+                "Control electronico de estabilidad",
+                "Asistencia de aparcamiento"
+            ],
+            "Inicio":{
+                "valor":1990,
+                "unidad":"año"
+            }
+        },
+        {
+            "nombre":"Funciones combinadas",
+            "Grupo":"L2",
+            "descripcion": "Varias funciones trabajan al unisono ...",
+            "ejemplos":[
+                "Tesis autopilot",
+                "GM Super cruise"
+            ],
+            "Inicio":{
+                "valor":2010,
+                "unidad":"año"
+            }
+        },
+        {
+            "nombre":"Autoconduccion limitada",
+            "Grupo":"L3",
+            "descripcion": "El conductor cede el control del coche...",
+            "ejemplos":[
+                "Google Car(prototipo)"
+            ],
+            "Inicio":{
+                "valor":2010,
+                "unidad":"año"
+            }
+        },
+        {
+            "nombre":"Autoconduccion total",
+            "Grupo":"L4",
+            "descripcion": "El coche se conduce de forma autonoma...",
+            "ejemplos":[
+                "Google Car"
+            ],
+            "Inicio":{
+                "valor":0,
+                "unidad":"año"
+            }
+        }
+    ]
+}

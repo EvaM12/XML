@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Elecciones>
+    <Censo>
+        <CensoTotal>34.802.222</CensoTotal>
+        <Totalvotos>25.886.130</Totalvotos>
+        <VotosBlancos>199.511</VotosBlancos>
+        <VotosNulos>275.410</VotosNulos>
+        <Escaños>350</Escaños>
+        <Abstencion>24.24</Abstencion>
+    </Censo>
+    <Partidos>
+        <partido>
+            <Nombre>PSOE</Nombre>
+            <Votos>7.480.755</Votos>
+            <Porcentaje>28,9</Porcentaje>
+            <Escaños>123</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>PP</Nombre>
+            <Votos>4.356.023</Votos>
+            <Porcentaje>16.83</Porcentaje>
+            <Escaños>66</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>Cs</Nombre>
+            <Votos>4.136.600</Votos>
+            <Porcentaje>15.98</Porcentaje>
+            <Escaños>57</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>UP</Nombre>
+            <Votos>3.118.191</Votos>
+            <Porcentaje>12.05</Porcentaje>
+            <Escaños>35</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>Vox</Nombre>
+            <Votos>2.677.173</Votos>
+            <Porcentaje>10.34</Porcentaje>
+            <Escaños>24</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>ERC</Nombre>
+            <Votos>1.015.355</Votos>
+            <Porcentaje>3.92</Porcentaje>
+            <Escaños>15</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>ECP</Nombre>
+            <Votos>614.738</Votos>
+            <Porcentaje>2.73</Porcentaje>
+            <Escaños>7</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>JxCat</Nombre>
+            <Votos>497.638</Votos>
+            <Porcentaje>1.92</Porcentaje>
+            <Escaños>7</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>PNV</Nombre>
+            <Votos>394.627</Votos>
+            <Porcentaje>1.52</Porcentaje>
+            <Escaños>6</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>PACMA</Nombre>
+            <Votos>326.045</Votos>
+            <Porcentaje>1.26</Porcentaje>
+            <Escaños>0</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>EHBildu</Nombre>
+            <Votos>258.840</Votos>
+            <Porcentaje>1</Porcentaje>
+            <Escaños>4</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>Compromis</Nombre>
+            <Votos>172.751</Votos>
+            <Porcentaje>0.67</Porcentaje>
+            <Escaños>1</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>PNC</Nombre>
+            <Votos>137.196</Votos>
+            <Porcentaje>0.53</Porcentaje>
+            <Escaños>2</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>Front republica</Nombre>
+            <Votos>113.008</Votos>
+            <Porcentaje>0.44</Porcentaje>
+            <Escaños>0</Escaños>
+        </partido>
+
+        <partido>
+            <Nombre>NA+</Nombre>
+            <Votos>107.124</Votos>
+            <Porcentaje>0.41</Porcentaje>
+            <Escaños>2</Escaños>
+        </partido>
+        <partido>
+            <Nombre>BNG</Nombre>
+            <Votos>93.810</Votos>
+            <Porcentaje>0.36</Porcentaje>
+            <Escaños>0</Escaños>
+        </partido>
+        <partido>
+            <Nombre>PRC</Nombre>
+            <Votos>52.197</Votos>
+            <Porcentaje>0.2</Porcentaje>
+            <Escaños>1</Escaños>
+        </partido>
+
+    </Partidos>
+</Elecciones>

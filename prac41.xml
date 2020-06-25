@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Blogs>
+    <Blog>
+        <SitioWeb>ultrablogg.com</SitioWeb>
+        <Articulo>
+            <Titulo>Como crear un buen XML</Titulo>
+            <Fecha>
+                <Dia>21</Dia>
+                <Mes>5</Mes>
+                <Año>2017</Año>
+            </Fecha>
+            <Visitas>
+                <Unicas>4500</Unicas>
+                <Totales>26870</Totales>
+            </Visitas>
+            <Autor>
+                <Nombre>Sarah</Nombre>
+                <Apellido>Casado</Apellido>
+                <Email>sarcash@nop.com</Email>
+            </Autor>
+        </Articulo>
+
+        <Articulo>
+            <Titulo>Dar formato a XML</Titulo>
+            <Fecha>
+                <Dia>12</Dia>
+                <Mes>6</Mes>
+                <Año>2017</Año>
+            </Fecha>
+            <Visitas>
+                <Unicas>9000</Unicas>
+                <Totales>16000</Totales>
+            </Visitas>
+            <Autor>
+                <Nombre>Sarah</Nombre>
+                <Apellido>Casado</Apellido>
+                <Email>sarcash@nop.com</Email>
+            </Autor>
+        </Articulo>
+
+        <Articulo>
+            <Titulo>El exito de JSON</Titulo>
+            <Fecha>
+                <Dia>13</Dia>
+                <Mes>6</Mes>
+                <Año>2017</Año>
+            </Fecha>
+            <Visitas>
+                <Unicas>11800</Unicas>
+                <Totales>35000</Totales>
+            </Visitas>
+            <Autor>
+                <Nombre>Alberto</Nombre>
+                <Apellido>Jimenez</Apellido>
+                <Email>jimenez@ubg.com</Email>
+            </Autor>
+        </Articulo>
+    </Blog>
+
+    <Blog>
+        <SitioWeb>tekniblog.es</SitioWeb>
+        <Articulo>
+            <Titulo>Como crear un buen XML</Titulo>
+            <Fecha>
+                <Dia>21</Dia>
+                <Mes>5</Mes>
+                <Año>2017</Año>
+            </Fecha>
+            <Visitas>
+                <Unicas>0</Unicas>
+                <Totales>0</Totales>
+            </Visitas>
+            <Autor>
+                <Nombre>Sarah</Nombre>
+                <Apellido>Casado</Apellido>
+                <Email>sarcash@nop.com</Email>
+            </Autor>
+        </Articulo>
+
+        <Articulo>
+            <Titulo>El exito de JSON</Titulo>
+            <Fecha>
+                <Dia>13</Dia>
+                <Mes>6</Mes>
+                <Año>2017</Año>
+            </Fecha>
+            <Visitas>
+                <Unicas>0</Unicas>
+                <Totales>0</Totales>
+            </Visitas>
+            <Autor>
+                <Nombre>Alberto</Nombre>
+                <Apellido>Jimenez</Apellido>
+                <Email>jimenez@ubg.com</Email>
+            </Autor>
+        </Articulo>
+    </Blog>
+
+    <Blog>
+        <Articulo>
+            <Titulo>Dar formato a XML</Titulo>
+            <Fecha>
+                <Dia>12</Dia>
+                <Mes>6</Mes>
+                <Año>2017</Año>
+            </Fecha>
+            <Visitas>
+                <Unicas>1200</Unicas>
+                <Totales>9000</Totales>
+            </Visitas>
+            <Autor>
+                <Nombre>Sarah</Nombre>
+                <Apellido>Casado</Apellido>
+                <Email>sarcash@nop.com</Email>
+            </Autor>
+        </Articulo>
+
+        <Articulo>
+            <Titulo>El exito de JSON</Titulo>
+            <Fecha>
+                <Dia>13</Dia>
+                <Mes>6</Mes>
+                <Año>2017</Año>
+            </Fecha>
+            <Visitas>
+                <Unicas>2870</Unicas>
+                <Totales>17000</Totales>
+            </Visitas>
+            <Autor>
+                <Nombre>Alberto</Nombre>
+                <Apellido>Jimenez</Apellido>
+                <Email>jimenez@ubg.com</Email>
+            </Autor>
+        </Articulo>
+    </Blog>
+</Blogs>

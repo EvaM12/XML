@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Como la descripcion no tiene elementos prohibidos <,&,$ no es necesario usar cdata-->
+<Automatizacion>
+    <L0>
+        <Nombre id= "L0">Sin automatizar</Nombre>
+        <Descripcion>
+            No hay ningun apoyo, el conductor conduce sin asistencia
+        </Descripcion>
+        <Ejemplos>
+            No hay ejemplos
+            </Ejemplos>
+        <EpocaInicio>1990</EpocaInicio>
+    </L0>
+
+    <L1>
+        <Nombre id= "L1">Funciones especificas</Nombre>
+        <Descripcion>
+            Se automatizan una o mas funciones
+        </Descripcion>
+        <Ejemplos>
+            ABS, control de crucero
+        </Ejemplos>
+        <EpocaInicio>1990</EpocaInicio>
+    </L1>
+
+    <L2>
+        <Nombre id= "L2">Funciones combinadas</Nombre>
+        <Descripcion>
+            
+        </Descripcion>
+        <Ejemplos>
+            
+        </Ejemplos>
+        <EpocaInicio>2010</EpocaInicio>
+    </L2>
+
+    <L3>
+        <Nombre id= "L3">Autoconduccion limitada</Nombre>
+        <Descripcion>
+            
+        </Descripcion>
+        <Ejemplos>
+            
+        </Ejemplos>
+        <EpocaInicio>2010</EpocaInicio>
+    </L3>
+
+    <L4>
+        <Nombre id= "L4">Autoconduccion total</Nombre>
+        <Descripcion>
+            
+        </Descripcion>
+        <Ejemplos>
+            
+        </Ejemplos>
+        <EpocaInicio>No</EpocaInicio>
+    </L4>
+</Automatizacion>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Ejercicio 2 Practica 1 --> 
+<documentos>
+    <departamento>
+        <nombre>Historia</nombre>
+        <documento id="t123">
+            <Autor>
+                <Nombre>Luisa</Nombre>
+                <Apellido>Casas</Apellido>
+            </Autor>
+            <FechaCreacion>2/11/2010</FechaCreacion>
+            <Titulo>Imperio Romano I</Titulo>
+        </documento>
+
+        <documento id="t124">
+            <Autor>
+                <Nombre>Luisa</Nombre>
+                <Apellido>Casas</Apellido>
+            </Autor>
+            <FechaCreacion>2/11/2010</FechaCreacion>
+            <Titulo>Imperio Romano II</Titulo>
+        </documento>
+
+        <documento id="t125">
+            <Autor>
+                <Nombre>Cesareo</Nombre>
+                <Apellido>Perez</Apellido>
+            </Autor>
+            <FechaCreacion>9/11/2010</FechaCreacion>
+            <Titulo>Postguerra española</Titulo>
+        </documento>
+    </departamento>
+
+    <Departamento>
+        <Nombre>Estadistica</Nombre>
+        <documento id="t98">
+            <Autor>
+                <Nombre>Maria</Nombre>
+                <Apellido>Rosales</Apellido>
+            </Autor>
+            <Titulo>Piramide poblacional china</Titulo>
+            <Estado>Desfasado</Estado>
+        </documento>
+
+        <documento id="t198">
+            <Autor>
+                <Nombre>Carlos</Nombre>
+                <Apellido>Sendino</Apellido>
+            </Autor>
+            <Titulo>Curvas de decision</Titulo>
+            <Estado>No</Estado>
+        </documento>
+
+        <documento id="t234">
+            <Autor>
+                <Nombre>Cesareo</Nombre>
+                <Apellido>Perez</Apellido>
+            </Autor>
+            <Titulo>Estudio de audiencias</Titulo>
+            <Estado>Excelente</Estado>
+        </documento>
+
+        <documento id="t235">
+            <Autor>
+                <Nombre>Carlos</Nombre>
+                <Apellido>Sendino</Apellido>
+            </Autor>
+            <Titulo>Nuevas variables estadisticas</Titulo>
+            <Estado>No</Estado>
+        </documento>
+
+        <documento id="t276">
+            <Autor>
+                <Nombre>Carlos</Nombre>
+                <Apellido>Sendino</Apellido>
+            </Autor>
+            <Titulo>Algebra y estadistica</Titulo>
+            <Estado>Tecnico</Estado>
+        </documento>
+    </Departamento>
+</documentos>

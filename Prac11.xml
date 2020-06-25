@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Revisar con Prac2 y quitar los departamentos de los trabajadores y ponerlos aparte en otra raiz-->
+<Ejercicio1>
+    <Trabajador1>
+        <Identificador>123</Identificador>
+        <Nombre>Javier</Nombre>
+        <Apellido1>Álvarez</Apellido1>
+        <Apellido2>Santos</Apellido2>
+        <Direccion>C/ Mayor 13</Direccion>
+        <Telefono>979101718</Telefono>
+        <Est_civil>Soltero</Est_civil>
+        <Contrato>
+            <Inicio1>12/3/2008</Inicio1>
+            <Puesto1>Jefe de produccion</Puesto1>
+            <Despido1>3/1/2011</Despido1>
+            <IDJefe1>No</IDJefe1>
+            <Departamento1>
+                <Nombre>Produccion</Nombre>
+                <IDresponsable>123</IDresponsable>
+                <IDtrabajadores>90,150</IDtrabajadores>
+            </Departamento1>
+
+            <Inicio2>4/1/2011</Inicio2>
+            <Puesto2>Jefe de ventas</Puesto2>
+            <Despido2>No</Despido2>
+            <IDJefe2>No</IDJefe2>
+            <Departamento2>
+                <Nombre>Ventas</Nombre>
+                <IDresponsable>123</IDresponsable>
+                <IDtrabajadores>90,150</IDtrabajadores>
+            </Departamento2>
+        </Contrato>
+    </Trabajador1>
+
+    <Trabajador2>
+        <Identificador>90</Identificador>
+        <Nombre>Ana</Nombre>
+        <Apellido1>Santos</Apellido1>
+        <Apellido2>Crespo</Apellido2>
+        <Direccion>C/ Jardines 12 1ºB</Direccion>
+        <Telefono>979777675</Telefono>
+        <Est_civil>Casada</Est_civil>
+        <Contrato>
+            <Inicio1>8/4/2009</Inicio1>
+            <Puesto1>Auxiliar Administrativo</Puesto1>
+            <Despido1>12/3/2010</Despido1>
+            <IDJefe1></IDJefe1>
+            <Departamento1>
+                <Nombre>Ventas</Nombre>
+                <IDresponsable>123</IDresponsable>
+                <IDtrabajadores>90,150</IDtrabajadores>
+            </Departamento1>
+
+            <Inicio2>13/3/2009</Inicio2>
+            <Puesto2>Comercial</Puesto2>
+            <Despido2>12/3/2010</Despido2>
+            <IDJefe2>123</IDJefe2>
+            <Departamento2>
+                <Nombre>Ventas</Nombre>
+                <IDresponsable>123</IDresponsable>
+                <IDtrabajadores>90, 150</IDtrabajadores>
+            </Departamento2>
+
+            <Inicio3>13/3/2010</Inicio3>
+            <Puesto3>Coordinadora de ventas</Puesto3>
+            <Despido3>No</Despido3>
+            <IDJefe3>123</IDJefe3>
+            <Departamento3>
+                <Nombre>Ventas</Nombre>
+                <IDresponsable>123</IDresponsable>
+                <IDtrabajadores>90,150</IDtrabajadores>
+            </Departamento3>
+        </Contrato>
+    </Trabajador2>
+
+    <Trabajador3>
+        <Identificador>150</Identificador>
+        <Nombre>Luis</Nombre>
+        <Apellido1>Santana</Apellido1>
+        <Apellido2>Gonzalez</Apellido2>
+        <Direccion>Adva. Cardenal Cisneos 38 4ªF</Direccion>
+        <Telefono>979107652</Telefono>
+        <Est_civil>Casado</Est_civil>
+        <Contrato>
+            <Inicio>8/9/2009</Inicio>
+            <Puesto>Comercial</Puesto>
+            <Despido>No</Despido>
+            <IDJefe>123</IDJefe>
+            <Departamento>
+                <Nombre>Ventas</Nombre>
+                <IDresponsable>123</IDresponsable>
+                <IDtrabajadores>90,150</IDtrabajadores>
+            </Departamento>
+        </Contrato>
+    </Trabajador3>
+
+    <Trabajador4>
+        <Identificador>19</Identificador>
+        <Nombre>Lorena</Nombre>
+        <Apellido1>Villanueva</Apellido1>
+        <Apellido2>Herrero</Apellido2>
+        <Direccion>C/ Mayor 113 2ºF</Direccion>
+        <Telefono>979807671</Telefono>
+        <Est_civil>Soltera</Est_civil>
+        <Contrato>
+            <Inicio1>4/5/2006</Inicio1>
+            <Puesto1>Coordinadora</Puesto1>
+            <Despido1>24/6/2009</Despido1>
+            <IDJefe1>19</IDJefe1>
+            <Departamento1>
+                <Nombre>Produccion</Nombre>
+                <IDresponsable>19</IDresponsable>
+                <IDtrabajadores>201</IDtrabajadores>
+            </Departamento1>
+
+            <Inicio2>25/6/2009</Inicio2>
+            <Puesto2>Jefa</Puesto2>
+            <Despido2>No</Despido2>
+            <IDJefe2>19</IDJefe2>
+            <Departamento2>
+                <Nombre>Produccion</Nombre>
+                <IDresponsable>19</IDresponsable>
+                <IDtrabajadores>201</IDtrabajadores>
+            </Departamento2>
+        </Contrato>
+    </Trabajador4>
+
+    <Trabajador5>
+        <Identificador>201</Identificador>
+        <Nombre>Victor</Nombre>
+        <Apellido1>Suarez</Apellido1>
+        <Apellido2>Losande</Apellido2>
+        <Direccion>C/ Los tintes 3 1ºC</Direccion>
+        <Telefono>979101015</Telefono>
+        <Est_civil>Casado</Est_civil>
+        <Contrato>
+            <Inicio>25/6/2009</Inicio>
+            <Puesto>Coordinador</Puesto>
+            <Despido>No</Despido>
+            <IDJefe>19</IDJefe>
+            <Departamento>
+                <Nombre>Produccion</Nombre>
+                <IDresponsable>19</IDresponsable>
+                <IDtrabajadores>201</IDtrabajadores>
+            </Departamento>
+        </Contrato>
+    </Trabajador5>
+</Ejercicio1>    
